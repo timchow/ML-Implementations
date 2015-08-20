@@ -4,5 +4,13 @@
 
 My implementations of various classification and clustering algorithms implemented using iPython
 
+Completed:
+- K Means
+
+Planned:
+- Naive Bayes
+- Logistic Regression
+- K Nearest Neighbors
+
 ## Author ##
 - Tim Chow
