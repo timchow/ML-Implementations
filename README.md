@@ -2,7 +2,7 @@
 
 ## Description ##
 
-My implementations of various classification and clustering algorithms implemented using iPython
+My implementations of various classification and clustering algorithms implemented using iPython Notebook.
 
 Completed:
 - K-means Clustering
