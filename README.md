@@ -5,7 +5,8 @@
 My implementations of various classification and clustering algorithms implemented using iPython
 
 Completed:
-- K Means
+- K-means Clustering
+- Hierarchical Clustering Algorithm (HCA)
 
 Planned:
 - Naive Bayes
